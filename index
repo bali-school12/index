@@ -10,5 +10,6 @@ background: linear-gradient(cyan, darkblue);
 -webkit-text-stroke: 1px red;
 color: white;
 }
+
 </style>
 </html>
